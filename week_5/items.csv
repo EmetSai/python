@@ -1,0 +1,32 @@
+ITEM_ID,ITEM_NAME,ITEM_TYPE
+I0,Charred Chicken Marketbowl,Mains
+I1,Spicy Meatballs Marketbowl,Mains
+I2,Grilled Organic Tofu Marketbowl,Mains
+I3,Herb Roasted Chicken Marketbowl,Mains
+I4,Roasted Wild Alaskan Salmon Marketbowl,Mains
+I5,Classic Brown Rice,Bases
+I6,Farm Greens with Mint,Bases
+I7,Farro with Summer Vegetables,Bases
+I8,Cauliflower with Garlic and Parmesan,Market Sides
+I9,Jasper Hill Mac & Cheese,Market Sides
+I10,Roasted Sweet Potatoes,Market Sides
+I11,Charred Broccoli with Lemon,Market Sides
+I12,Cashew Kale Caesar,Market Sides
+I13,Blistered Shishitos,Market Sides
+I14,Green Goddess Beans with Sesame,Market Sides
+I15,Snap Peas,Market Sides
+I16,Housemade Sriracha,Sauces
+I17,Pesto,Sauces
+I18,Garlic Aioli ,Sauces
+I19,Tarragon Mustard,Sauces
+I24,Avocado,Cold Sides
+I31,Kitchen Sink Cookie,Desserts
+I32,Boxed Water is Better,Drinks
+I33,Cawston Press Rhubarb Sparkling Drink,Drinks
+I34,Fresh Ginger Mint Lemonade,Drinks
+I35,Hibiscus Rooibos Iced Tea,Drinks
+I36,Kombucha,Drinks
+I37,Organic Iced Tea,Drinks
+I38,Spindrift Grapefruit,Drinks
+I39,Spindrift Lemon,Drinks
+I40,Himalayan Pink Organic Popcorn,Desserts
